@@ -73,7 +73,7 @@ logger.add(
 # إعدادات البوت والذكاء الاصطناعي
 # ============================================================================
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8447232715:AAFYC-YKCNiJVfHxbG8_c7QwORJEopOuEbs")
-OWNER_ID = os.environ.get("OWNER_ID", "YOUR_TELEGRAM_ID")  # معرف المالك
+OWNER_ID = os.environ.get("OWNER_ID", "6743097025")  # معرف المالك
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 
 # إعداد عميل OpenAI
